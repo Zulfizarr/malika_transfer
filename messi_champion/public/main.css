@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+.market{
+    background-color: #fff;
+    margin: 100px;
+    border-radius: 12px;
+    padding: 5px;
+
+}
